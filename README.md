@@ -1,4 +1,4 @@
-<h1 align="center">HI stranger</h1>
+<h1 align="center">HI strangers</h1>
 <h3 align="center">😎😐😎</h3>
 <br>
 <img src="https://lanyard-profile-readme.vercel.app/api/337654195526303746">
