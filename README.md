@@ -2,7 +2,7 @@
 <h3 align="center">😎😐😎</h3>
 <br>
 <p align="center">
-<img src="https://lanyard-profile-readme.vercel.app/api/337654195526303746">
+<img src="https://lanyard-profile-readme.vercel.app/api/337654195526303746?bg=809ecf">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=enygmate&label=Profile%20views&color=0e75b6&style=flat" alt="enygmate" /> </p>
 <hr>
